@@ -4,7 +4,7 @@ import { TriviaService } from "../trivia.service";
 @Component({
     selector: 'app-trivia',
     templateUrl: './trivia.component.html',
-    styleUrls: ['./trivia.component.css']
+    styleUrls: ['./trivia.component.sass']
 })
 export class TriviaComponent implements OnInit {
 
